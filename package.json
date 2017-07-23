@@ -2,6 +2,9 @@
   "name": "fizz-buzz-buzz",
   "version": "1.0.0",
   "description": "",
+  "engines" : {
+    "node" : ">=7.10.0" 
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -20,5 +23,8 @@
   "homepage": "https://github.com/norisalsaadie/fizz-buzz#readme",
   "devDependencies": {
     "ava": "^0.21.0"
+  },
+  "dependencies": {
+    "nanomist": "^1.0.0"
   }
 }
