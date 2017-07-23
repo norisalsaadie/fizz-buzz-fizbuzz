@@ -1,5 +1,8 @@
 // If there were more cases then I would opt-in for a switch.
 function generateTerm(number) {
+  if (`${number}`.indexOf('3') > -1) {
+    return 'lucky'
+  }
   if (number % 15 === 0) {
     return 'fizzbuzz'
   }
