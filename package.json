@@ -1,0 +1,24 @@
+{
+  "name": "fizz-buzz-buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norisalsaadie/fizz-buzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norisalsaadie/fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/norisalsaadie/fizz-buzz#readme",
+  "devDependencies": {
+    "ava": "^0.21.0"
+  }
+}
