@@ -14,3 +14,6 @@ If you are luck enough to use wallaby, then it should just work and you can view
 2. It will run with a default range of 1-20.
 3. The output will simply be a string.
 4. Stay away from FP as I don't know the target audience
+
+# Total time
+30 minutes for step(s) 1-3
